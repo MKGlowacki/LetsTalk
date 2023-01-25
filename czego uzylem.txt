@@ -1,0 +1,10 @@
+--SERWER--
+node.js
+express
+nodemon
+socket.io
+cors
+
+--KLIENT--
+react
+socket.io-client
