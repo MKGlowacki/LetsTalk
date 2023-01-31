@@ -35,7 +35,7 @@ function Chat({socket, username, room}){
     return(
         <div className="chat-window">
             <div className="chat-header">
-                <p>Live Chat</p>
+                <p>chat-app</p>
             </div>
             <div className="chat-body">
                 <ScrollToBottom className="message-container">
@@ -63,7 +63,7 @@ function Chat({socket, username, room}){
                 <input 
                     type="text" 
                     value={currentMessage}
-                    placeholder="Hi..."
+                    placeholder="Send message..."
                     onChange={(event) => {
                         setCurrentMessage(event.target.value)
                     }}
