@@ -1,5 +1,5 @@
 
-# Chat app
+# LetsTalk
 
 Aplikacja webowa do komunikacji na czacie pomiędzy dwoma (lub więcej) użytkownikami
 
