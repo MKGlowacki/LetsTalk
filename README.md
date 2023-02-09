@@ -14,11 +14,13 @@ Korzystajacy z aplikacji, po wyborze swojej nazwy użytkownika oraz konkretnego 
 ### Front-end
 
 Język programowania: JavaScript
+
 Użyte narzędzia: react, socket.io-client, react-scroll-to-bottom
 
 ### Back-end
 
 Język programowania: JavaScript
+
 Użyte narzędzia: node.js, express, nodemon, socket.io, cors
 
 
